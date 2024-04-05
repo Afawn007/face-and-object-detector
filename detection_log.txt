@@ -1,0 +1,4 @@
+Unknown persons found: 4
+Unknown persons found with bottles: 0
+Known faces found: 81
+Known faces found with bottles: 29
