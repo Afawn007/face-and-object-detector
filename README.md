@@ -12,6 +12,7 @@ This project aims to create a real-time AI system for detecting faces and object
 - Python 3.x
 - OpenCV
 - Matplotlib
+- Tkinter
 - facial_recognition library
 - YOLOv3 weights and configuration files
 
