@@ -18,7 +18,7 @@ This project aims to create a real-time AI system for detecting faces and object
 
 ## Usage
 1. Clone the repository.
-2. Install the required dependencies using pip:
+2. Install the required dependencies using pip which are listed in requirements.txt:
 ```
 pip install -r requirements.txt
 ```
