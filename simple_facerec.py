@@ -65,7 +65,8 @@ class SimpleFacerec:
                 name = self.known_face_names[best_match_index]
             face_names.append(name)
 
-        # Convert to numpy array to adjust coordinates with frame resizing quickly
+        # Convert to numpy array to adjust coordinates with frame resizing quickl
         face_locations = np.array(face_locations)
         face_locations = face_locations / self.frame_resizing
         return face_locations.astype(int), face_names
+
